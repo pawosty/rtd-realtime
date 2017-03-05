@@ -5,8 +5,8 @@ var btoa = require('btoa');
 // Requests for production credentials can me made at the following url:
 // http://www.rtd-denver.com/gtfs-developer-guide.shtml
 var auth = {
-  user: 'develop',
-  pw: 'Gtf5rtac#ss'
+  user: null,
+  pw: null
 };
 
 module.exports = {
